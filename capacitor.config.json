@@ -1,0 +1,8 @@
+{
+  "appId": "com.tereosfks.app",
+  "appName": "tereos-app",
+  "webDir": "www",
+  "server": {
+    "url": "https://tereosfks.com/"
+  }
+}
